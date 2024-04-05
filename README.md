@@ -1,7 +1,7 @@
 # DevSu - APIS Opción 3 - Daniel Mora
 
 ## Descripción Del Proyecto
-Este proyecto provee una solución a la opción 3 de APIS. En este proyecto se usó Cypress.io para realizar pruebas de servicios REST a la página https://petstore.swagger.lo/ en el cual se identifica las entradas y captura las salidas para cada uno de los siguientes casos:
+Este proyecto provee una solución a la opción 3 de APIS. En este proyecto se usó Cypress.io para realizar pruebas de servicios REST a la página https://petstore.swagger.io/ en el cual se identifica las entradas y captura las salidas para cada uno de los siguientes casos:
 
 1. Crear un usuario (APIS/cypress/e2e/createUserTest.cy.js)
 
